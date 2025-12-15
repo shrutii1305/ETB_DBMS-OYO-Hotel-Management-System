@@ -18,7 +18,7 @@ This database consists of many tables. The tables include hotel detail informati
 5. A single hotel may employ many people (Multiple Staff Members). 
 6. Hotels and Amenities exist in a Many to Many association.
 ## ER Diagram
-![ER Diagram](ER_Diagram.png)
+![ER Diagram](ER_Diagram.pdf)
 
 An ER diagram is a graphical depiction of the:
 1.	All related entities alongside the associated attributes.
