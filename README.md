@@ -6,8 +6,8 @@ Relational database design for an OYO-style hotel booking and management system 
 2. Manage data for hotels, hotel rooms, customer profiles, booked rooms, payment records for booked rooms, customer reviews about booked rooms, staff members who worked at each hotel, amenities associated with each property, and loyalty program options from these hotels. 
 3. This project is centered on the design of a clear database, having appropriate relationships between tables within the database, as well as the creation of relevant SQL statement queries used to analyze the data contained within the database.
 ## Tools Used
-MySQL
-MySQL Workbench
+MySQL,
+MySQL Workbench,
 SQL
 ## Database Tables
 This database consists of many tables. The tables include hotel detail information , room detail information specific by hotel type, customer detail information , booking detail record information by customer, payment transaction information , customer feedback on hotels, staff employed by hotels, an inventory of amenities that hotels provide , and a listing that links up hotels with those amenities . The database also contains customer loyalty program information .
