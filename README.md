@@ -1,5 +1,8 @@
 # ETB_DBMS-OYO-Hotels-341012_341023_341052-Group-16
 Relational database design for an OYO-style hotel booking and management system using MySQL
+<p align="center">
+  <img src="ER_Diagram.pdf" alt="ER Diagram" width="850">
+</p>
 ## Overview
 1. This project is a MySQL-based relational database established that models a simplified version of an online hotel booking company, specifically OYO. 
 2. Manage data for hotels, hotel rooms, customer profiles, booked rooms, payment records for booked rooms, customer reviews about booked rooms, staff members who worked at each hotel, amenities associated with each property, and loyalty program options from these hotels. 
@@ -18,10 +21,6 @@ This database consists of many tables. The tables include hotel detail informati
 5. A single hotel may employ many people (Multiple Staff Members). 
 6. Hotels and Amenities exist in a Many to Many association.
 ## ER Diagram
-<p align="center">
-  <img src="ER_Diagram.pdf" alt="ER Diagram" width="850">
-</p>
-
 An ER diagram is a graphical depiction of the:
 1.	All related entities alongside the associated attributes.
 2.	The associated primary and foreign keys.
