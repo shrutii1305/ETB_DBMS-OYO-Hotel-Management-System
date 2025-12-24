@@ -7,6 +7,15 @@ Relational database design for an OYO hotel booking system using MySQL
 1. This project is a MySQL-based relational database established that models a simplified version of an online hotel booking company, specifically OYO. 
 2. Manage data for hotels, hotel rooms, customer profiles, booked rooms, payment records for booked rooms, customer reviews about booked rooms, staff members who worked at each hotel, amenities associated with each property, and loyalty program options from these hotels. 
 3. This project is centered on the design of a clear database, having appropriate relationships between tables within the database, as well as the creation of relevant SQL statement queries used to analyze the data contained within the database.
+## Objectives
+The objective of this project is to design and implement a relational database system for an OYO-style hotel management platform using SQL. The project aims to:
+
+⦁ Store and manage hotel, room, and customer information
+⦁	Handle bookings, payments, and customer reviews efficiently
+⦁	Maintain hotel staff and loyalty program data
+⦁	Apply core SQL concepts such as DDL, DML, joins, aggregate functions, subqueries, and date functions
+⦁	Simulate real-world hotel booking and management operations
+
 ## Tools Used
 MySQL,
 MySQL Workbench,
