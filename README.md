@@ -58,6 +58,7 @@ This project demonstrates a strong understanding of relational database concepts
 It effectively models a real-world hotel booking system using structured tables and well-defined relationships.
 
 By:
+
 Shruti Choudhary
 
 Dikshant
